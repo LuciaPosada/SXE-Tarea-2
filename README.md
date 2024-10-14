@@ -25,3 +25,9 @@
     - En la seccion NetworkSettings -> IPAddress
 
 - Hacer ping: *sudo docker exec -it dam_alp1 ping google.com*
+
+## 5. Crea un contenedor con el nombre 'dam_alp2'. ¿Puedes hacer ping entre los contenedores?
+
+- Crea un contenedor: *sudo docker run -d --name dam_alp2 alpine tail -f /dev/null*
+
+- *sudo docker exec -it dam_alp2 ping 172.17.0.2* Si, se puede hacer ping
