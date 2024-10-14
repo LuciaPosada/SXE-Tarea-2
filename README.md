@@ -36,7 +36,9 @@ El nombre se genera de manera aleatoria. En mi caso el contenedor fue llamado qu
 
 - Comprueba la ip: *sudo docker inspect dam_alp1*
 
-    - En la seccion NetworkSettings -> IPAddress
+    En la seccion NetworkSettings -> IPAddress
+
+    ![Comando Paso4](/img/paso4.png)
 
 - Hacer ping: *sudo docker exec -it dam_alp1 ping google.com*
 
