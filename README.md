@@ -62,9 +62,13 @@ El nombre se genera de manera aleatoria. En mi caso el contenedor fue llamado qu
 
 ## 7. ¿Cuanta memoria en el disco duro ocupaste?
 
-- Ver memoria: *sudo docker system df*
+- Ver uso de memoria total: *sudo docker system df*
 
-    ![Comando Paso7](/img/paso7.png)
+    ![Comando Paso7](/img/paso7_1.png)
+
+- Ver uso de memoria especifico: *sudo docker ps -as*
+
+    ![Comando Paso7](/img/paso7_2.png)
 
 ## 8. ¿Cuanta RAM ocupan los contenedores? ¿Hay algún comando docker para saber esto?
 
