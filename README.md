@@ -13,3 +13,7 @@
 - *sudo docker ps -a* No
 
 - El nombre se genera de manera aleatoria. En mi caso el contenedor fue llamado quizzical_beaver
+
+## 3.Crea un contenedor con el nombre 'dam_alp1'. ¿Como puedes acceder a él?
+
+- Crea un contenedor y acceder a el: *sudo docker run -d --name dam_alp1 alpine tail -f /dev/null*
