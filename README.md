@@ -52,7 +52,7 @@ El nombre se genera de manera aleatoria. En mi caso el contenedor fue llamado qu
 
 - Ping: *sudo docker exec -it dam_alp2 ping 172.17.0.2*
 
-    ![Comando Paso4](/img/paso5.png)
+    ![Comando Paso5](/img/paso5.png)
 
     Si, se puede hacer ping
 
@@ -63,6 +63,8 @@ El nombre se genera de manera aleatoria. En mi caso el contenedor fue llamado qu
 ## 7. ¿Cuanta memoria en el disco duro ocupaste?
 
 - Ver memoria: *sudo docker system df*
+
+    ![Comando Paso7](/img/paso7.png)
 
 ## 8. ¿Cuanta RAM ocupan los contenedores? ¿Hay algún comando docker para saber esto?
 
