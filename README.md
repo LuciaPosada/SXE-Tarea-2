@@ -24,9 +24,13 @@ El nombre se genera de manera aleatoria. En mi caso el contenedor fue llamado qu
 
 ## 3. Crea un contenedor con el nombre 'dam_alp1'. ¿Como puedes acceder a él?
 
-- Crea un contenedor y acceder a el: *sudo docker run -d --name dam_alp1 alpine tail -f /dev/null*
+- Crea un contenedor que se mantenga en ejecucion: *sudo docker run -d --name dam_alp1 alpine tail -f /dev/null*
+
+![Comando Paso3](/img/paso3_1.png)
 
 - Acceder al contenedor: *sudo docker exec -it dam_alp1 sh*
+
+![Comando Paso3](/img/paso3_2.png)
 
 ## 4. Comprueba que ip tiene y si puedes hacer un ping a google.com
 
