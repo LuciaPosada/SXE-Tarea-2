@@ -52,6 +52,8 @@ El nombre se genera de manera aleatoria. En mi caso el contenedor fue llamado qu
 
 - Ping: *sudo docker exec -it dam_alp2 ping 172.17.0.2*
 
+    ![Comando Paso4](/img/paso5.png)
+
     Si, se puede hacer ping
 
 ## 6. Sal del terminal, ¿que ocurrió con el contenedor?
