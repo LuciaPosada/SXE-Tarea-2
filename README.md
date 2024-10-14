@@ -38,11 +38,13 @@ El nombre se genera de manera aleatoria. En mi caso el contenedor fue llamado qu
 
     En la seccion NetworkSettings -> IPAddress
 
-    ![Comando Paso4](/img/paso4.png)
+    ![Comando Paso4](/img/paso4_1.png)
 
 - Hacer ping:
     - Opcion 1: *sudo docker exec -it dam_alp1 ping google.com*
     - Opcion 2: (Desde la shell del contenedor) *ping google.com*
+
+        ![Comando Paso4](/img/paso4_2.png)
 
 ## 5. Crea un contenedor con el nombre 'dam_alp2'. ¿Puedes hacer ping entre los contenedores?
 
