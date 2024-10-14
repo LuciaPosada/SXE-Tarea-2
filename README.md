@@ -42,3 +42,7 @@
 
 - Ver memoria: *sudo docker system df*
 
+## 8. ¿Cuanta RAM ocupan los contenedores? ¿Hay algún comando docker para saber esto?
+
+- Ver RAM: *sudo docker status*
+
