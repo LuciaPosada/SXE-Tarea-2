@@ -33,3 +33,11 @@
 - Crea un contenedor: *sudo docker run -d --name dam_alp2 alpine tail -f /dev/null*
 
 - *sudo docker exec -it dam_alp2 ping 172.17.0.2* Si, se puede hacer ping
+
+## 6. Sal del terminal, ¿que ocurrió con el contenedor?
+
+- Si se sale del terminal mediante Ctrl + d, el contenedor finaliza su ejecucion. Si se sale mediante el comando *exit* El contenedor continua en ejecucion.
+
+## 7. ¿Cuanta memoria en el disco duro ocupaste?
+
+
