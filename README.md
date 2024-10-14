@@ -18,6 +18,8 @@
 
 - Crea un contenedor y acceder a el: *sudo docker run -d --name dam_alp1 alpine tail -f /dev/null*
 
+- Acceder al contenedor: *sudo docker exec -it dam_alp1 sh*
+
 ## 4. Comprueba que ip tiene y si puedes hacer un ping a google.com
 
 - Comprueba la ip: *sudo docker inspect dam_alp1*
