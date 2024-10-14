@@ -20,7 +20,7 @@
 
     Utilizando el comando *container create*, los contenedores no se ejecutan despues de su creacion, al contrario del comando *run*.
 
-- El nombre se genera de manera aleatoria. En mi caso el contenedor fue llamado quizzical_beaver
+El nombre se genera de manera aleatoria. En mi caso el contenedor fue llamado quizzical_beaver
 
 ## 3. Crea un contenedor con el nombre 'dam_alp1'. ¿Como puedes acceder a él?
 
