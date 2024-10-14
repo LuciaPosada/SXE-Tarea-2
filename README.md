@@ -40,4 +40,5 @@
 
 ## 7. ¿Cuanta memoria en el disco duro ocupaste?
 
+- Ver memoria: *sudo docker system df*
 
