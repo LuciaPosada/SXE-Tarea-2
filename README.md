@@ -18,7 +18,7 @@
 
     ![Comando Paso2](/img/paso2.png)
 
-    - Utilizando el comando *container create*, los contenedores no se ejecutan despues de su creacion, al contrario del comando *run*.
+    Utilizando el comando *container create*, los contenedores no se ejecutan despues de su creacion, al contrario del comando *run*.
 
 - El nombre se genera de manera aleatoria. En mi caso el contenedor fue llamado quizzical_beaver
 
