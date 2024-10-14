@@ -4,7 +4,11 @@
 
 - Descarga la imagen: *sudo docker pull alpine*
 
+![Comando Paso1](/img/paso1_1.png)
+
 - Comprueba que está en el equipo: *sudo docker image ls*
+
+![Comando Paso1](/img/paso1_2.png)
 
 ## 2.Crea un contenedor sin ponerle nombre. ¿está arrancado? Obtén el nombre
 
