@@ -70,3 +70,5 @@ El nombre se genera de manera aleatoria. En mi caso el contenedor fue llamado qu
 
 - Ver RAM: *sudo docker status*
 
+    ![Comando Paso8](/img/paso8.png)
+
