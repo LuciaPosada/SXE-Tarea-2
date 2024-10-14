@@ -68,7 +68,7 @@ El nombre se genera de manera aleatoria. En mi caso el contenedor fue llamado qu
 
 - Ver uso de memoria especifico: *sudo docker ps -as*
 
-    ![Comando Paso7](/img/paso7_3.png)
+    ![Comando Paso7](/img/paso7_2.png) ![Comando Paso7](/img/paso7_3.png)
 
 ## 8. ¿Cuanta RAM ocupan los contenedores? ¿Hay algún comando docker para saber esto?
 
