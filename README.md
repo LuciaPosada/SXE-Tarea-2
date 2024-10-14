@@ -17,3 +17,11 @@
 ## 3.Crea un contenedor con el nombre 'dam_alp1'. ¿Como puedes acceder a él?
 
 - Crea un contenedor y acceder a el: *sudo docker run -d --name dam_alp1 alpine tail -f /dev/null*
+
+## 4. Comprueba que ip tiene y si puedes hacer un ping a google.com
+
+- Comprueba la ip: *sudo docker inspect dam_alp1*
+
+    - En la seccion NetworkSettings -> IPAddress
+
+- Hacer ping: *sudo docker exec -it dam_alp1 ping google.com*
