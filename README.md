@@ -58,7 +58,11 @@ El nombre se genera de manera aleatoria. En mi caso el contenedor fue llamado qu
 
 ## 6. Sal del terminal, ¿que ocurrió con el contenedor?
 
-- Nada??
+- Salir del terminal:
+    - Opcion 1: *exit*
+    - Opcion 2: Ctrl + D
+
+Al salir del terminal se cierra el contenedor
 
 ## 7. ¿Cuanta memoria en el disco duro ocupaste?
 
